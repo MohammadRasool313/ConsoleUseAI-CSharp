@@ -1,4 +1,3 @@
-```markdown
 # ConsoleUseAI-CSharp
 
 A lightweight console application that lets you chat with a language-model backend either **online** via Hugging Face Inference API or **offline** through a local server such as LM Studio.
@@ -83,5 +82,3 @@ dotnet run --project ConsoleUseAI
 
 MIT © [MR313](https://github.com/MohammadRasool313)
 ```
-
----
