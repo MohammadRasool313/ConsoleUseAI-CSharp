@@ -26,13 +26,14 @@ A lightweight console application that lets you chat with a language-model backe
 
 ## ⚙️ One-time setup
 
-1. **Download / clone**  
+1. **Download / clone**
+   Download Release
    ```bash
    git clone https://github.com/MohammadRasool313/ConsoleUseAI-CSharp.git
    cd ConsoleUseAI-CSharp
    ```
 
-2. **Add your configuration**  
+3. **Add your configuration**  
    - Open the included appsettings.json file in the Console_UseAI/ folder.
    - Create or reuse a Hugging Face API token at  
      https://huggingface.co/settings/tokens  
