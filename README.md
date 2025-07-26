@@ -8,7 +8,7 @@ A lightweight console application that lets you chat with a language-model backe
 
 ---
 
-## Features
+## ✨ Features
 
 - Simple user interface
 - No need for powerful graphics and hardware
