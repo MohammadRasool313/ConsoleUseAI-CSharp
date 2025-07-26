@@ -34,7 +34,7 @@ A lightweight console application that lets you chat with a language-model backe
    ```
    Or Download and extract the Release file.
 
-3. **Add your configuration**  
+2. **Add your configuration**  
    - Open the included appsettings.json file in the Console_UseAI/ folder.
    - Create or reuse a Hugging Face API token at  
      https://huggingface.co/settings/tokens  
