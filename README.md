@@ -4,7 +4,7 @@ A lightweight console application that lets you chat with a language-model backe
 
 ---
 Here's the demo video that shows console 
-![Demo](demo.gif)
+![Demo]
 
 ## 📦 What you get
 
