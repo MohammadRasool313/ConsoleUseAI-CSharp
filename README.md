@@ -27,7 +27,6 @@ A lightweight console application that lets you chat with a language-model backe
 ## ⚙️ One-time setup
 
 1. **Download / clone**
-   Download Release
    ```bash
    git clone https://github.com/MohammadRasool313/ConsoleUseAI-CSharp.git
    cd ConsoleUseAI-CSharp
