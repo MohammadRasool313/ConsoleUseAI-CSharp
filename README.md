@@ -31,6 +31,7 @@ A lightweight console application that lets you chat with a language-model backe
    git clone https://github.com/MohammadRasool313/ConsoleUseAI-CSharp.git
    cd ConsoleUseAI-CSharp
    ```
+   Or Download and extract the Release file.
 
 3. **Add your configuration**  
    - Open the included appsettings.json file in the Console_UseAI/ folder.
