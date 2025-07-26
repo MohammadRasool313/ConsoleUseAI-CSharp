@@ -10,6 +10,7 @@ A lightweight console application that lets you chat with a language-model backe
 
 ## ✨ Features
 
+- Ability to use different Hugging Face models that support Inference Providers
 - Simple user interface
 - No need for powerful graphics and hardware
 - Fast
