@@ -6,6 +6,12 @@ A lightweight console application that lets you chat with a language-model backe
 Here's the demo video that shows console 
 ![Demo](demo1.gif)
 
+## Features
+
+- Simple user interface
+- No need for powerful graphics and hardware
+- Fast
+
 ## 📦 What you get
 
 - `ConsoleUseAI.exe` – ready-to-run
